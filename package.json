@@ -9,7 +9,19 @@
     "render-all": "node scripts/render-all-themes.js",
     "test": "jest"
   },
-  "keywords": ["github", "stats", "visualization", "multi-theme", "dynamic", "remotion"],
+  "keywords": [
+    "github",
+    "stats",
+    "visualization",
+    "multi-theme",
+    "dynamic",
+    "remotion",
+    "automation",
+    "developer-tools",
+    "productivity",
+    "open-source",
+    "viral"
+  ],
   "author": "Ashraf Morningstar",
   "license": "MIT",
   "dependencies": {
